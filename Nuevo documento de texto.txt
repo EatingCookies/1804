@@ -1,0 +1,4 @@
+npx install expess-generator
+
+npm i
+npm start
